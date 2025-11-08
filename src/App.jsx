@@ -18,7 +18,7 @@ function App() {
             </div>
           </div>
           <img src={laptop} className="w-[13rem] z-60 relative right-[28rem]" />
-          <div className="w-[10rem] h-[7rem] rounded-2xl bg-white border-2 z-60 items-center justify-center flex font-extrabold text-[5rem] relative left-[27rem] top-[5rem]">
+          <div className="w-[10rem] h-[7rem] rounded-2xl bg-white border-2 z-60 items-center justify-center flex font-extrabold text-[5rem] relative left-[27rem] top-[-9rem]">
             <p>5.0</p>
           </div>
           <img src={btn} className="w-[5rem] z-60 relative top-[-2.6rem] left-[5rem]" />
