@@ -17,12 +17,12 @@ function App() {
               </p>
             </div>
           </div>
-          {/* <img src={laptop} className="w-[14rem] z-60" /> */}
+          <img src={laptop} className="w-[13rem] z-60 relative right-[28rem]" />
           <div className="w-[10rem] h-[7rem] rounded-2xl bg-white border-2 z-60 items-center justify-center flex font-extrabold text-[5rem] relative left-[27rem] top-[5rem]">
             <p>5.0</p>
           </div>
-          <img src={btn} className="w-[5rem] z-60 relative top-[11.3rem] left-[5rem]" />
-          <div className="bg-[#fede64] w-[20rem] h-[7rem] relative top-[9.5rem] z-50 rounded-3xl border-1 flex items-center justify-center">
+          <img src={btn} className="w-[5rem] z-60 relative top-[-2.6rem] left-[5rem]" />
+          <div className="bg-[#fede64] w-[20rem] h-[7rem] relative top-[-4.4rem] z-50 rounded-3xl border-1 flex items-center justify-center">
             <button className="bg-white w-[17rem] py-[0.5rem] text-[1.2rem] border-1 rounded shadow-[3px_4px_0.4rem] font-bold rotate-5 cursor-pointer hover:-rotate-0 duration-300">
               <p>Apply with DevFolio</p>
             </button>
